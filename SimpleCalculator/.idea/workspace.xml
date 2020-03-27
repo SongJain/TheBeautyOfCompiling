@@ -67,6 +67,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1Zh1FtW49R172Bg9jUHsn6Yatnv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -198,8 +199,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.MySimpleLexer" />
     </list>
     <recent_temporary>
@@ -271,6 +272,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="315" key="GridCell.Tab.1.right/0.0.1536.864/-1600.99.1600.900@0.0.1536.864" timestamp="1585291294175" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585291528852">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1600.99.1600.900@0.0.1536.864" timestamp="1585291528852" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
